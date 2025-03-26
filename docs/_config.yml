@@ -24,16 +24,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Social Data Analysis - Group 77
 baseurl: "/socialdata2025-group77" # the subpath of your site, e.g. /blog
 url: "https://puidokas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username: puidokas
 
 # Build settings
-#theme: minima
-remote_theme: jekyll/minima
-minima:
-  skin: dark
+theme: minima
 plugins:
   - jekyll-feed
+paginate: 0
 
 # Exclude from processing.
 # The following items will not be processed, by default.

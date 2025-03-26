@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "02806 Social Data Analysis: Assignment 2 - Group 77"
 date:   2025-03-23 13:26:43 +0100
 categories: jekyll update
 ---
