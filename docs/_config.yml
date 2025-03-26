@@ -30,7 +30,6 @@ github_username: puidokas
 theme: minima
 plugins:
   - jekyll-feed
-paginate: 0
 
 # Exclude from processing.
 # The following items will not be processed, by default.

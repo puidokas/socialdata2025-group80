@@ -4,15 +4,62 @@ title:  "02806 Social Data Analysis: Assignment 2 - Group 77"
 date:   2025-03-23 13:26:43 +0100
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Markdown Features Showcase
 
-Jekyll requires blog post files to be named according to the following format:
+Welcome to this **Jekyll post** that demonstrates the main features of **Markdown**!
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## 1. Headings
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+You can create headings with the `#` symbol.
 
-Jekyll also offers powerful support for code snippets:
+### Subheading 1
+
+### Subheading 2
+
+## 2. Emphasis
+
+- *Italic* text uses one asterisk or underscore.
+- **Bold** text uses two asterisks or underscores.
+- ***Bold and italic*** text uses three asterisks or underscores.
+
+## 3. Lists
+
+### Unordered List
+
+- Item 1
+- Item 2
+  - Sub-item 1
+  - Sub-item 2
+
+### Ordered List
+
+1. First item
+2. Second item
+3. Third item
+
+## 4. Links
+
+You can add links like this:
+
+[Visit Jekyll](https://jekyllrb.com)  
+[Link to Google](https://www.google.com)
+
+## 5. Images
+
+Add images by using the following syntax:
+
+![Jekyll Logo](https://cdn.freebiesupply.com/logos/large/2x/jekyll-logo-png-transparent.png)
+
+## 6. Blockquotes
+
+> Markdown allows you to create blockquotes easily.  
+> Just use the `>` symbol before the text.
+
+## 7. Code Blocks
+
+You can add inline code like `console.log('Hello, world!')`.
+
+For larger code blocks, you can use triple backticks like this:
 
 {% highlight ruby %}
 def print_hi(name)
@@ -21,9 +68,3 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
