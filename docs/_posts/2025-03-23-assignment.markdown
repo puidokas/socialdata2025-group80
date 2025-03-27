@@ -25,7 +25,7 @@ This page will highlight one crime category from the dataset, DRUG/NARCOTIC, hel
 
 # Heatmap
 
-<iframe src="/assets/heatmap.html" width="100%" height="600px"></iframe>
+<iframe src="{{ site.baseurl }}/assets/heatmap.html" width="100%" height="600px"></iframe>
 
 ---
 
