@@ -1,5 +1,19 @@
-# Instructions
+# Website
+Accessible [here](https://puidokas.github.io/socialdata2025-group77/).
 
+# Contribution
+
+| Contribution | Student name | Student id |
+| -------- | ------- | ------- |
+| Introduction | Manuel Ibanez Andujar | 232783 |
+| Heatmap | Manuel Ibanez Andujar | 232783 |
+| Website setup | Jonas Puidokas | 137282 |
+| Narcotics-Related Crime Patterns in San Francisco: Trends by Hour, Day, and Month | Jonas Puidokas | 137282 |
+| X | Charalampos Stathopoulos | 243183 |
+
+# Assignment instructions
+
+## Instructions
 
 * Choose an insight about crime in SF (NOT Prostitution)
 * Format: *Magazine Genre*
