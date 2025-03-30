@@ -51,10 +51,14 @@ header p {
   transform: translateY(-5px);
 }
 
-.post h2 {
-  font-size: 1.8rem;
+.post-content h1, .post-content h2 {
+  font-size: 1.3rem;
   color: #ff7e5f;
   margin-bottom: 10px;
+}
+
+.post-content h1 {
+  font-weight: bold;
 }
 
 .post-content {

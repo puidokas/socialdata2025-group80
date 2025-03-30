@@ -7,7 +7,7 @@ categories: jekyll update
 
 # Introduction of the dataset
 
-# Understanding San Francisco's Crime Data  
+## Understanding San Francisco's Crime Data  
 
 San Francisco has long been a city of contrasts—booming industries and persistent challenges, innovation alongside deep-rooted issues. To better understand crime trends over time, we analyzed a dataset that merges two key sources from the **DataSF Open Data Portal**:  
 
@@ -24,11 +24,11 @@ By analyzing nearly two decades of crime reports, we can uncover patterns and tr
 
 This page will highlight one crime category from the dataset, DRUG/NARCOTIC, helping shed light on the evolving nature of crime in San Francisco.
 
-# Heatmap
+## Heatmap
 
 <iframe src="{{ site.baseurl }}/assets/heatmap.html" width="100%" height="600px" style="border: none;"></iframe>
 
-# Uncovering Narcotics-Related Crime Patterns in San Francisco: Trends by Hour, Day, and Month
+# Narcotics-Related Crime Patterns in San Francisco: Trends by Hour, Day, and Month
 
 Using a heatmap graph to analyze narcotics-related arrests in San Francisco provides a clear visual representation of when these incidents are most likely to occur. The graph highlights patterns across **hour of the day**, **day of the week**, and **month/year**, offering valuable insights into drug-related activity in the city.
 
@@ -53,7 +53,7 @@ The graph shows increased arrest activity on **weekdays**, especially from **Tue
 
 The heatmap for months shows relatively consistent arrest activity throughout the year, with no significant seasonal spikes. This suggests that narcotics-related crime is less influenced by external factors like weather or holidays compared to other types of crime. However, annual trends may reveal fluctuations due to shifts in law enforcement priorities or public health campaigns targeting drug use[1][8].
 
-## References
+# References
 
 1. [Minimaxir: *Analyzing San Francisco Crime Data to Determine When Arrests Happen*](https://minimaxir.com/2015/12/sf-arrests/) - Provides detailed analysis of arrest patterns, including time-of-day and day-of-week trends.  
 2. [SF Crime Map: *San Francisco Drug Arrest Dashboard*](https://www.sfcrimemap.org/drugs) - Focused on drug-related arrests with interactive heatmaps.  
