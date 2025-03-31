@@ -28,7 +28,7 @@ This page will highlight one crime category from the dataset, **DRUG/NARCOTIC**,
 
 <iframe src="{{ site.baseurl }}/assets/heatmap.html" width="100%" height="600px" style="border: none;"></iframe>
 
-> **Figure2:** Heatmap of DRUG/NARCOTIC crimes ocurrences over the whole dataset period. Markers show the placement of Single-Room Occupancy Hotels (SROs).
+> **Figure1:** Heatmap of DRUG/NARCOTIC crimes ocurrences over the whole dataset period. Markers show the placement of Single-Room Occupancy Hotels (SROs).
 
 # 3. Narcotics-Related Crime Patterns in San Francisco: Trends by Hour, Day, and Month
 
@@ -58,7 +58,7 @@ The heatmap for months shows relatively consistent arrest activity throughout th
 # 4. Polar Bar-Chart
 <iframe src="{{ site.baseurl }}/assets/drug_narcotic_polar_chart.html" width="100%" height="850px" style="border: none;"></iframe>
 
-> **Figure2:** Monthly distribution of DRUG/NARCOTIC crimes over the dataset period.Brighter colours show higher numbers of arrests.
+> **Figure3:** Monthly distribution of DRUG/NARCOTIC crimes over the dataset period.Brighter colours show higher numbers of arrests.
 
 The polar bar chart reveals a clear seasonal pattern in the overall dataset dating from 2003 to 2025, January is the month with the highest number of arrests followed by February and March. During summer months and especially June and July there is a noticeable decrease in the number of arrests. Then there is another peak in August through October and finally a substantial drop in the month of December, indicating a possible reduction in enforcement during the holiday season.
 
