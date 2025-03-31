@@ -31,7 +31,7 @@ This page will highlight one crime category from the dataset, **DRUG/NARCOTIC**,
 # 3. Polar Bar-Chart
 <iframe src="{{ site.baseurl }}/assets/drug_narcotic_polar_chart.html" width="100%" height="850px" style="border: none;"></iframe>
 
-> **Figure:** Monthly distribution of DRUG/NARCOTIC crimes over the dataset period.Brighter colours show higher numbers of arrests.
+> **Figure2:** Monthly distribution of DRUG/NARCOTIC crimes over the dataset period.Brighter colours show higher numbers of arrests.
 
 The polar bar chart reveals a clear seasonal pattern, January is the month with the highest number of arrests followed by February and March. During summer months and especially June and July there is a noticeable decrease in the number of arrests. Then there is another peak in August through October and finally a substantial drop in the month of December, indicating a possible reduction in enforcement during the holiday season.
 
