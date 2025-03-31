@@ -40,9 +40,9 @@ The polar bar chart reveals a clear seasonal pattern, January is the month with 
 Using a heatmap graph to analyze narcotics-related arrests in San Francisco provides a clear visual representation of when these incidents are most likely to occur. The graph highlights patterns across **hour of the day**, **day of the week**, and **month/year**, offering valuable insights into drug-related activity in the city.
 
 The heatmap provides a compelling visual tool for identifying patterns in narcotics-related arrests:
-- **Time-Based Trends**: Hotspots during late afternoon/evening and late-night hours[1][7].
-- **Day-Based Trends**: Weekday enforcement peaks; weekend spikes tied to nightlife[1][7][8].
-- **Seasonal Stability**: Arrests remain steady across months but may shift year-to-year based on policy changes[1][8].
+- **Time-Based Trends**: Hotspots during late afternoon/evening and late-night hours [1, 2].
+- **Day-Based Trends**: Weekday enforcement peaks; weekend spikes tied to nightlife [1, 2, 3].
+- **Seasonal Stability**: Arrests remain steady across months but may shift year-to-year based on policy changes [1, 3, 4].
 
 <iframe src="{{ site.baseurl }}/assets/bokeh.html" width="100%" height="650px" style="border: none;"></iframe>
 
