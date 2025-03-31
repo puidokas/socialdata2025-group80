@@ -28,6 +28,8 @@ This page will highlight one crime category from the dataset, **DRUG/NARCOTIC**,
 
 <iframe src="{{ site.baseurl }}/assets/heatmap.html" width="100%" height="600px" style="border: none;"></iframe>
 
+> **Figure2:** Heatmap of DRUG/NARCOTIC crimes ocurrences over the whole dataset period. Markers show the placement of Single-Room Occupancy Hotels (SROs).
+
 # 3. Narcotics-Related Crime Patterns in San Francisco: Trends by Hour, Day, and Month
 
 Using a heatmap graph to analyze narcotics-related arrests in San Francisco provides a clear visual representation of when these incidents are most likely to occur. The graph highlights patterns across **hour of the day**, **day of the week**, and **month/year**, offering valuable insights into drug-related activity in the city.
