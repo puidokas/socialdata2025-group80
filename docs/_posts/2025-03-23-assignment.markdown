@@ -22,7 +22,7 @@ For example, a record from 2016 might describe a **burglary reported in the Miss
 ## What This Data Tells Us  
 By analyzing nearly two decades of crime reports, we can uncover patterns and trends—how crime rates fluctuate over time, how certain offenses become more or less common, and how policy changes or social factors influence reported crime.  
 
-This page will highlight one crime category from the dataset, DRUG/NARCOTIC, helping shed light on the evolving nature of crime in San Francisco.
+This page will highlight one crime category from the dataset, **DRUG/NARCOTIC**, helping shed light on the evolving nature of crime in San Francisco.
 
 # 2. Heatmap
 
