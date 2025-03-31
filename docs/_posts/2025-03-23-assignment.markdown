@@ -41,7 +41,12 @@ The heatmap provides a compelling visual tool for identifying patterns in narcot
 
 > The heatmap on this site does not currently support dynamic filtering by year or month. However, you can achieve this interactivity by running the heatmap using a Bokeh server. This setup allows real-time updates based on selected filters. The file can be downloaded [here](https://github.com/puidokas/socialdata2025-group77/blob/main/bokeh_app.py).
 
-## Hour of the Day
+<iframe src="{{ site.baseurl }}/assets/drug_narcotic_polar_chart.html" width="100%" height="600px" style="border: none;"></iframe>
+
+> **Figure:** Monthly distribution of DRUG/NARCOTIC crimes over the dataset period.
+
+
+## Hour of the Day.
 
 The heatmap reveals that narcotics-related arrests peak during the **late afternoon and evening hours**, particularly between **15 and 20**. This period likely corresponds to heightened street-level drug activity and enforcement efforts. A secondary hotspot appears **late at night**, around **23 to 2**, which aligns with nightlife activity and drug trafficking in specific areas. In contrast, early morning hours (4 to 8) are relatively cooler on the heatmap, indicating fewer arrests during this time[1][7].
 
