@@ -48,17 +48,17 @@ The heatmap provides a compelling visual tool for identifying patterns in narcot
 
 > The heatmap on this site does not currently support dynamic filtering by year or month. However, you can achieve this interactivity by running the heatmap using a Bokeh server. This setup allows real-time updates based on selected filters. The file can be downloaded [here](https://github.com/puidokas/socialdata2025-group77/blob/main/bokeh_app.py).
 
-## Hour of the Day.
+## Hour of the Day
 
-The heatmap reveals that narcotics-related arrests peak during the **late afternoon and evening hours**, particularly between **15 and 20**. This period likely corresponds to heightened street-level drug activity and enforcement efforts. A secondary hotspot appears **late at night**, around **23 to 2**, which aligns with nightlife activity and drug trafficking in specific areas. In contrast, early morning hours (4 to 8) are relatively cooler on the heatmap, indicating fewer arrests during this time[1][7].
+The heatmap reveals that narcotics-related arrests peak during the **late afternoon and evening hours**, particularly between **15 and 20**. This period likely corresponds to heightened street-level drug activity and enforcement efforts. A secondary hotspot appears **late at night**, around **23 to 2**, which aligns with nightlife activity and drug trafficking in specific areas. In contrast, early morning hours (4 to 8) are relatively cooler on the heatmap, indicating fewer arrests during this time [1, 2].
 
 ## Day of the Week
 
-The graph shows increased arrest activity on **weekdays**, especially from **Tuesday to Thursday**, which may be tied to routine law enforcement operations targeting drug markets. While weekends generally appear cooler on the heatmap, hotspots emerge late Friday and Saturday nights, likely reflecting drug use and sales associated with nightlife areas[1][7][8].
+The graph shows increased arrest activity on **weekdays**, especially from **Tuesday to Thursday**, which may be tied to routine law enforcement operations targeting drug markets. While weekends generally appear cooler on the heatmap, hotspots emerge late Friday and Saturday nights, likely reflecting drug use and sales associated with nightlife areas [1, 2, 3].
 
 ## Month of the Year
 
-The heatmap for months shows relatively consistent arrest activity throughout the year, with no significant seasonal spikes. This suggests that narcotics-related crime is less influenced by external factors like weather or holidays compared to other types of crime. However, annual trends may reveal fluctuations due to shifts in law enforcement priorities or public health campaigns targeting drug use[1][8].
+The heatmap for months shows relatively consistent arrest activity throughout the year, with no significant seasonal spikes. This suggests that narcotics-related crime is less influenced by external factors like weather or holidays compared to other types of crime. However, annual trends may reveal fluctuations due to shifts in law enforcement priorities or public health campaigns targeting drug use [1, 3, 4].
 
 # 5. Conclusion & Discussion
 
