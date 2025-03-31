@@ -33,6 +33,8 @@ This page will highlight one crime category from the dataset, **DRUG/NARCOTIC**,
 
 > **Figure:** Monthly distribution of DRUG/NARCOTIC crimes over the dataset period.Brighter colours show higher numbers of arrests.
 
+The polar bar chart reveals a clear seasonal pattern, January is the month with the highest number of arrests followed by February and March. During summer months and especially June and July there is a noticeable decrease in the number of arrests. Then there is another peak in August through October and finally a substantial drop in the month of December, indicating a possible reduction in enforcement during the holiday season.
+
 # 4. Narcotics-Related Crime Patterns in San Francisco: Trends by Hour, Day, and Month
 
 Using a heatmap graph to analyze narcotics-related arrests in San Francisco provides a clear visual representation of when these incidents are most likely to occur. The graph highlights patterns across **hour of the day**, **day of the week**, and **month/year**, offering valuable insights into drug-related activity in the city.
