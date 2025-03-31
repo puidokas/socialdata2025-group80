@@ -5,7 +5,7 @@ date:   2025-03-23 13:26:43 +0100
 categories: jekyll update
 ---
 
-# Introduction of the dataset
+# 1. Introduction of the dataset
 
 ## Understanding San Francisco's Crime Data  
 
@@ -24,11 +24,11 @@ By analyzing nearly two decades of crime reports, we can uncover patterns and tr
 
 This page will highlight one crime category from the dataset, DRUG/NARCOTIC, helping shed light on the evolving nature of crime in San Francisco.
 
-## Heatmap
+# 2. Heatmap
 
 <iframe src="{{ site.baseurl }}/assets/heatmap.html" width="100%" height="600px" style="border: none;"></iframe>
 
-# Narcotics-Related Crime Patterns in San Francisco: Trends by Hour, Day, and Month
+# 3. Narcotics-Related Crime Patterns in San Francisco: Trends by Hour, Day, and Month
 
 Using a heatmap graph to analyze narcotics-related arrests in San Francisco provides a clear visual representation of when these incidents are most likely to occur. The graph highlights patterns across **hour of the day**, **day of the week**, and **month/year**, offering valuable insights into drug-related activity in the city.
 
@@ -41,7 +41,7 @@ The heatmap provides a compelling visual tool for identifying patterns in narcot
 
 > The heatmap on this site does not currently support dynamic filtering by year or month. However, you can achieve this interactivity by running the heatmap using a Bokeh server. This setup allows real-time updates based on selected filters. The file can be downloaded [here](https://github.com/puidokas/socialdata2025-group77/blob/main/bokeh_app.py).
 
-## Polar Bar-Chart
+# 4. Polar Bar-Chart
 <iframe src="{{ site.baseurl }}/assets/drug_narcotic_polar_chart.html" width="100%" height="850px" style="border: none;"></iframe>
 
 > **Figure:** Monthly distribution of DRUG/NARCOTIC crimes over the dataset period.
@@ -59,7 +59,7 @@ The graph shows increased arrest activity on **weekdays**, especially from **Tue
 
 The heatmap for months shows relatively consistent arrest activity throughout the year, with no significant seasonal spikes. This suggests that narcotics-related crime is less influenced by external factors like weather or holidays compared to other types of crime. However, annual trends may reveal fluctuations due to shifts in law enforcement priorities or public health campaigns targeting drug use[1][8].
 
-# Conclusion
+# 5. Conclusion
 
 When analyzing patterns in drug related arrests in San Francisco there is a clear trend, most incidents are concentrated in neighborhoods like SoMa(South of Market), Tenderloin and Mission District. These all have something else in common, they are part of the city’s largest clusters of SRO(Single-Room Occupancy) buildings. SROs are a type of low-cost housing, providing a single room and often shared bathrooms and minimal facilities. Originally, they were implemented for transient workers but have nowadays become the permanent residence of the city’s most impoverished residents. These same buildings are also the epicenter of San Francisco’s drug related crimes. A 2022 investigation [6] reveals that since 2019, more than 40% of the of the accidental overdose incidents in the Tenderloin and Sixth Street areas took place inside city-funded SROs. In total, in the city of San Francisco, at least 16% of fatal overdoses occur in SROs even though the buildings house less than 1% of the total population. The heatmap visualization in our project makes the connection clear, the highest arrest clusters line up with the SRO-heavy areas. We have pointed out 5 of those SROs which are placed around the highest concentrated arrest areas of the city. One big outlier on why this phenomenon exists is the level of living conditions inside the SROs. A 2022 article [7] reveals that more than 1100 violations cited by inspectors in city-funded SROs were related to unsanitary living conditions. Problems like polluted water supplies, mold-covered rooms and rodent infestations are everyday problems for the residents of those buildings. Conditions like these not only endanger the residents health conditions but may also push them into the use of narcotics, playing a crucial role in the phenomenon we are observing.
 
