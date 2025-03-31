@@ -10,7 +10,7 @@ Accessible [here](https://puidokas.github.io/socialdata2025-group77/).
 | Website setup | Jonas Puidokas | 137282 |
 | Narcotics-Related Crime Patterns in San Francisco: Trends by Hour, Day, and Month | Jonas Puidokas | 137282 |
 | Polar Bar-Chart | Charalampos Stathopoulos | 243183 |
-| Conclusion | Charalampos Stathopoulos | 243183 |
+| Conclusion & Discussion | Charalampos Stathopoulos | 243183 |
 
 # Assignment instructions
 
