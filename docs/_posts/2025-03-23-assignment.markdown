@@ -28,7 +28,12 @@ This page will highlight one crime category from the dataset, DRUG/NARCOTIC, hel
 
 <iframe src="{{ site.baseurl }}/assets/heatmap.html" width="100%" height="600px" style="border: none;"></iframe>
 
-# 3. Narcotics-Related Crime Patterns in San Francisco: Trends by Hour, Day, and Month
+# 3. Polar Bar-Chart
+<iframe src="{{ site.baseurl }}/assets/drug_narcotic_polar_chart.html" width="100%" height="850px" style="border: none;"></iframe>
+
+> **Figure:** Monthly distribution of DRUG/NARCOTIC crimes over the dataset period.
+
+# 4. Narcotics-Related Crime Patterns in San Francisco: Trends by Hour, Day, and Month
 
 Using a heatmap graph to analyze narcotics-related arrests in San Francisco provides a clear visual representation of when these incidents are most likely to occur. The graph highlights patterns across **hour of the day**, **day of the week**, and **month/year**, offering valuable insights into drug-related activity in the city.
 
@@ -40,12 +45,6 @@ The heatmap provides a compelling visual tool for identifying patterns in narcot
 <iframe src="{{ site.baseurl }}/assets/bokeh.html" width="100%" height="650px" style="border: none;"></iframe>
 
 > The heatmap on this site does not currently support dynamic filtering by year or month. However, you can achieve this interactivity by running the heatmap using a Bokeh server. This setup allows real-time updates based on selected filters. The file can be downloaded [here](https://github.com/puidokas/socialdata2025-group77/blob/main/bokeh_app.py).
-
-# 4. Polar Bar-Chart
-<iframe src="{{ site.baseurl }}/assets/drug_narcotic_polar_chart.html" width="100%" height="850px" style="border: none;"></iframe>
-
-> **Figure:** Monthly distribution of DRUG/NARCOTIC crimes over the dataset period.
-
 
 ## Hour of the Day.
 
