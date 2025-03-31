@@ -41,7 +41,7 @@ The heatmap provides a compelling visual tool for identifying patterns in narcot
 
 > The heatmap on this site does not currently support dynamic filtering by year or month. However, you can achieve this interactivity by running the heatmap using a Bokeh server. This setup allows real-time updates based on selected filters. The file can be downloaded [here](https://github.com/puidokas/socialdata2025-group77/blob/main/bokeh_app.py).
 
-<iframe src="{{ site.baseurl }}/assets/drug_narcotic_polar_chart.html" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ site.baseurl }}/assets/drug_narcotic_polar_chart.html" width="100%" height="850px" style="border: none;"></iframe>
 
 > **Figure:** Monthly distribution of DRUG/NARCOTIC crimes over the dataset period.
 
