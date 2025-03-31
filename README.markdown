@@ -9,7 +9,8 @@ Accessible [here](https://puidokas.github.io/socialdata2025-group77/).
 | Heatmap | Manuel Ibanez Andujar | 232783 |
 | Website setup | Jonas Puidokas | 137282 |
 | Narcotics-Related Crime Patterns in San Francisco: Trends by Hour, Day, and Month | Jonas Puidokas | 137282 |
-| X | Charalampos Stathopoulos | 243183 |
+| Polar Bar-Chart | Charalampos Stathopoulos | 243183 |
+| Conclusion | Charalampos Stathopoulos | 243183 |
 
 # Assignment instructions
 
