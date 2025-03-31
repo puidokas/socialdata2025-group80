@@ -31,7 +31,7 @@ This page will highlight one crime category from the dataset, DRUG/NARCOTIC, hel
 # 3. Polar Bar-Chart
 <iframe src="{{ site.baseurl }}/assets/drug_narcotic_polar_chart.html" width="100%" height="850px" style="border: none;"></iframe>
 
-> **Figure:** Monthly distribution of DRUG/NARCOTIC crimes over the dataset period.
+> **Figure:** Monthly distribution of DRUG/NARCOTIC crimes over the dataset period.Brighter colours show higher numbers of arrests.
 
 # 4. Narcotics-Related Crime Patterns in San Francisco: Trends by Hour, Day, and Month
 
