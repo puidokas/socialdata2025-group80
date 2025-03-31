@@ -1,5 +1,5 @@
 # Website
-Accessible [here](https://puidokas.github.io/socialdata2025-group77/).
+Accessible [here](https://puidokas.github.io/socialdata2025-group80/).
 
 # Contribution
 
