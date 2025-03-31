@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Social Data Analysis - Group 77
+title: Social Data Analysis - Group 80
 email: s137282@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  Social Data Analysis - Group 77
-baseurl: "/socialdata2025-group77" # the subpath of your site, e.g. /blog
+  Social Data Analysis - Group 80
+baseurl: "/socialdata2025-group80" # the subpath of your site, e.g. /blog
 url: "https://puidokas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: puidokas
 
